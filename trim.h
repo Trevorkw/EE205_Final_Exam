@@ -4,5 +4,5 @@
 
 #pragma once
  unsigned int string_length(const char inString[]){
-    string_length_print = sizeof( inString ) -1;
+    int string_length_print = sizeof( inString ) -1;
 }
